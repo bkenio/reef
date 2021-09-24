@@ -36,7 +36,7 @@
     "query-string": "^7.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-dropzone": "^11.3.4",
+    "react-dropzone": "^11.4.2",
     "react-icons": "^4.2.0",
     "screenfull": "^5.1.0",
     "shaka-player": "^3.2.0",
