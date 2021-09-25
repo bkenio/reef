@@ -19,7 +19,7 @@
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
     "@next-auth/mongodb-adapter": "^0.0.2-next.276",
-    "aws-sdk": "^2.989.0",
+    "aws-sdk": "^2.995.0",
     "axios": "^0.21.4",
     "dayjs": "^1.10.7",
     "detect-browser": "^5.2.0",
